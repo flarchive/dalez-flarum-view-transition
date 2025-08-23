@@ -1,0 +1,38 @@
+{
+    "name": "dalez/flarum-view-transition",
+    "description": "Bringing View Transition to Flarum.",
+    "type": "flarum-extension",
+    "keywords": [
+        "transition"
+    ],
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/zDaleZ/flarum-view-transition/issues",
+        "source": "https://github.com/zDaleZ/flarum-view-transition"
+    },
+    "require": {
+        "flarum/core": "^1.4"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-main": "1.x-dev"
+        },
+        "flarum-extension": {
+            "title": "View Transition",
+            "category": "theme",
+            "icon": {
+                "name": "fas fa-clone",
+                "backgroundColor": "#6d6eb2",
+                "color": "#fff"
+            }
+        }
+    },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "../../*/*"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

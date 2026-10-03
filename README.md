@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of dalez/flarum-view-transition.** Not for installation: use [Packagist](https://packagist.org/packages/dalez/flarum-view-transition) or the [upstream repository](https://github.com/zDaleZ/flarum-view-transition).
 
-**0** versions archived · Latest: [`v1.0.0-beta1`](https://github.com/flarchive/dalez-flarum-view-transition/tree/archive/v1.0.0-beta1) · License: `MIT` · Flarum: `^1.4`
+**1** versions archived · Latest: [`v1.0.0-beta1`](https://github.com/flarchive/dalez-flarum-view-transition/tree/archive/v1.0.0-beta1) · License: `MIT` · Flarum: `^1.4`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0-beta1` | 2025-08-23 | `^1.4` | [Browse](https://github.com/flarchive/dalez-flarum-view-transition/tree/archive/v1.0.0-beta1) |
 
 Catalog entry: [packages/dalez-flarum-view-transition.json](https://github.com/flarchive/archive-index/blob/main/packages/dalez-flarum-view-transition.json)
 
